@@ -1,5 +1,7 @@
 # :fries: Projeto: Site de Venda de Lanches :hamburger:
 
+[Clique aqui para acessar o projeto publicado no Azure](https://gclanches.azurewebsites.net/)
+
 Este projeto é um site de vendas de lanches desenvolvido com ASP.NET Core 8. O site permite que usuários naveguem pelos produtos, adicionem itens ao carrinho, criem contas e façam login para gerenciar seus pedidos. Além disso, há uma área administrativa para gerenciamento de produtos, categorias e pedidos, bem como relatórios de vendas com gráficos.
 
 ## Funcionalidades
